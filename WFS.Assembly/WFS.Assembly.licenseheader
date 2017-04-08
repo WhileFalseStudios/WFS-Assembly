@@ -1,0 +1,21 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+/* -------------------------------------------------------------------
+*   Copyright © 2017 While False Studios
+*   %FileName% created by %UserName% on %CreationYear%-%CreationMonth%-%CreationDay% 
+*   Purpose:
+--------------------------------------------------------------------- */
+extensions: .aspx .ascx
+<%-- 
+Copyright (c) 2017 While False Studios
+%FileName% created by %UserDisplayName% on %CreationYear%-%CreationMonth%-%CreationDay% 
+Purpose:
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
+<!--
+Copyright (c) 2017 While False Studios
+%FileName% created by %UserDisplayName% on %CreationYear%-%CreationMonth%-%CreationDay% 
+Purpose:
+-->
